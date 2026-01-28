@@ -48,7 +48,7 @@ Me considero **constante, autodidacta y orientado a la resolución de problemas*
 
 ## 📂 Proyectos destacados
 
-### 🐱 MIAO – Portfolio Full Stack
+### ✂️ Imperio Barber
 - Autenticación con JWT
 - Roles de usuario (admin / user)
 - Panel de administración
@@ -62,8 +62,10 @@ Me considero **constante, autodidacta y orientado a la resolución de problemas*
 - Gestión de estados y render dinámico
 
 ### 🧬 Pokédex Pokémon
-- Backend con Node.js y Express
-- MongoDB
+- Roles de usuario (admin / user)
+- Panel de administración
+- Backend en Node + Express
+- Base de datos MongoDB
 - Frontend con HTML, CSS y JavaScript
 
 ### 🪑 Web de Muebles (Responsive)
